@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     Tweak CSS
 // @version  1.3.0
+// @match    *://www.example.com/
 // @grant    none
 // @require  add-css.js
 // @run-at   document-idle
