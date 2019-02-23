@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name     Tweak CSS
-// @version  1.2.3
+// @version  1.3.0
 // @grant    none
-// @match    *://www.ooblick.com/*
 // @require  add-css.js
 // @run-at   document-idle
 // ==/UserScript==

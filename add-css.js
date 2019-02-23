@@ -1,3 +1,5 @@
+// add_css
+// Given a CSS string, add a stylesheet to the document.
 function add_css(css_text) {
     var head = document.getElementsByTagName("head")[0];
     var css = document.createElement("style");
